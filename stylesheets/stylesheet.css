@@ -455,6 +455,11 @@ h1.title {
   text-align: center;
 }
 
+h4.title{
+  font-size: 20px;
+  text-align: center;
+}
+
 .wrapper {
   width: 875px;
   margin: 0 auto;

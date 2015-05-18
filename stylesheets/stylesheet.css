@@ -28,6 +28,8 @@ ul#topbar li a:hover {
 }
 
 ul#topbar li {
+  margin-right: 20px;
+  margin-left: 20px;
   text-decoration: none;
   background-color: black;
   color: white;

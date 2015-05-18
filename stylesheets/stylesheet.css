@@ -10,6 +10,13 @@ div#wrapper {
   background-image:url(images/gallinasPonedoras_clase11.jpg);
 }
 
+#titulo {
+  color: black;
+  text-align: center;
+  font-family: georgia;
+  font-style: italic;
+}
+
 ul#topbar {
   float: center;
   padding: 0px;

@@ -6,6 +6,10 @@
  *    user zoom.
  */
 
+div#wrapper {
+  background-image:url(images/gallinasPonedoras_clase11.jpg);
+}
+
 ul#topbar {
   float: center;
   padding: 0px;

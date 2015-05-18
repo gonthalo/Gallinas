@@ -7,7 +7,9 @@
  */
 
 ul#topbar {
-  padding: 0px;
+  text-align: center;
+  float: center;
+  padding: 10px;
 }
 
 ul#topbar li a {

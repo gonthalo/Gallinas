@@ -12,7 +12,11 @@ ul#topbar {
 }
 
 ul#topbar li a {
+  background-color: black;
   color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
 }
 
 ul#topbar li a:hover {
@@ -24,8 +28,6 @@ ul#topbar li {
   display:inline;
   margin-left: 20px;
   margin-right: 20px;
-  margin-top: 10px;
-  margin-bottom: 10px;
 }
 
 html {

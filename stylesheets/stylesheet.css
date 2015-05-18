@@ -17,6 +17,16 @@ div#wrapper {
   font-style: italic;
 }
 
+h4.tit {
+  font-style: bold;
+}
+
+#chemistry {
+  background-color: white;
+  color: black;
+  font-family: verdana;
+}
+
 ul#topbar {
   float: center;
   padding: 0px;

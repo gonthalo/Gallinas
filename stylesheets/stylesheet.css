@@ -6,6 +6,22 @@
  *    user zoom.
  */
 
+ul#topbar {
+  padding: 0px;
+}
+
+ul#topbar li a {
+  color: white;
+}
+
+ul#topbar li a:hover {
+  background-color: blue;
+}
+
+ul#topbar li {
+  display:inline;
+}
+
 html {
   font-family: sans-serif; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
@@ -94,6 +110,7 @@ a {
 
 a:active,
 a:hover {
+  color: gray;
   outline: 0;
 }
 

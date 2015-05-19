@@ -6,8 +6,12 @@
  *    user zoom.
  */
 
-div#wrapper {
-  background-image:url(images/gallinasPonedoras_clase11.jpg);
+body {
+  background-color: white;
+}
+
+#theory {
+  margin-left: 5px;
 }
 
 #titulo {
@@ -18,6 +22,7 @@ div#wrapper {
 }
 
 h4.tit {
+  margin-left: 7px;
   font-style: bold;
 }
 

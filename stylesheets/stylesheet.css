@@ -11,6 +11,11 @@ body {
 }
 
 #theory {
+  margin-right: 10px;
+  margin-left: 5px;
+}
+
+p {
   margin-left: 5px;
 }
 

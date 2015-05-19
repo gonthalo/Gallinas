@@ -15,6 +15,10 @@ body {
   margin-left: 25px;
 }
 
+img {
+  padding: 20px 0px;
+}
+
 #titulo {
   color: black;
   text-align: center;

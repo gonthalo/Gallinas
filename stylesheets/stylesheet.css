@@ -21,7 +21,12 @@ h4.tit {
   font-style: bold;
 }
 
+#container {
+  margin-left: 100px;
+}
+
 #chemistry {
+  margin-left: 20px;
   background-color: white;
   color: black;
   font-family: verdana;

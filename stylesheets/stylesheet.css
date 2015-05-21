@@ -30,6 +30,10 @@ img {
   font-style: italic;
 }
 
+h3 {
+  font-family: verdana;
+}
+
 h4.tit {
   margin-left: 7px;
   font-style: bold;

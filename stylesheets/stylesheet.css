@@ -15,11 +15,10 @@ img {
   color: black;
   text-align: center;
   font-family: georgia;
-  font-style: italic;
 }
-h3 {
+h1 {
   font-family: verdana;
-  font-style: none;
+  font-style: italic;
 }
 h4.tit {
   margin-left: 7px;

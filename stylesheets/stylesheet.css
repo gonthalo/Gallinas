@@ -11,6 +11,10 @@ em {
 img {
   padding: 0px 40px;
 }
+#pie {
+  margin-right: 200px;
+  margin-left: 200px;
+}
 #titulo {
   color: black;
   text-align: center;

@@ -29,8 +29,8 @@
 	    <div id="container">
 		    <div id="chemistry">
 		    	<br/><br/>
-		    	<h4 id="tit">Cómo contribuir</h4>
-		    	<p>Si quieres contribuir a esta página con un artículo, puedes hacerlo enviando un email a la siguiente dirección: <em>z123711194367163i@gmail.com</em><text></style></p>
+		    	<h4 id="tit">Carátula</h4>
+		    	<p>Esta es una página que puede servir de referencia para elaborar otra, pero carece de importancia intrínseca. Vamos, que para hacer otra página puedes copiar esto y cambiar el texto.</p>
 		    </div>
 		</div>
 	</div>

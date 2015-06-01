@@ -8,7 +8,7 @@ body {
 em {
   color: blue;
 }
-img {
+img#inicio {
   padding: 0px 40px;
 }
 #pie {

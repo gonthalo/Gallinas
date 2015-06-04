@@ -24,6 +24,9 @@ h1 {
   font-family: verdana;
   font-style: italic;
 }
+p.conc {
+  background-color: lime;
+}
 #tit {
   text-align: center;
   font-style: normal;

@@ -68,10 +68,11 @@ ul#topbar li {
   display:inline;
   border-radius: 4px;
 }
-button#boton :hover{
+#boton :hover{
   background-color: blue;
 }
 #boton{
+  border: none;
   background-color: black;
   color: white;
   text-align: center;

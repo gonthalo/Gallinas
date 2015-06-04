@@ -68,7 +68,10 @@ ul#topbar li {
   display:inline;
   border-radius: 4px;
 }
-#boton{
+button#boton :hover{
+  background-color: blue;
+}
+button#boton{
   margin-right: 20px;
   margin-left: 20px;
   background-color: black;

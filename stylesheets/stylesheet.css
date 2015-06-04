@@ -68,6 +68,16 @@ ul#topbar li {
   display:inline;
   border-radius: 4px;
 }
+#boton{
+  margin-right: 20px;
+  margin-left: 20px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+}
 html {
   font-family: sans-serif; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */

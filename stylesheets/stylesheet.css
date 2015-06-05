@@ -46,7 +46,7 @@ p.conc {
 }
 ul#topbar {
   float: center;
-  padding: 0px;
+  padding: 10px 20px;
 }
 ul#topbar li a {
   background-color: black;
@@ -82,8 +82,8 @@ ul#topbar li {
   font-size: 100%
 }
 html {
-  font-family: sans-serif; /* 1 */
-  -ms-text-size-adjust: 100%; /* 2 */
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
 

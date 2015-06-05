@@ -1,35 +1,3 @@
-function boton_aleatorio (){
-  var num = 7*Math.random();
-  if (num<0){
-    window.location="http://gonthalo.github.io/Gallinas/";
-  } else {
-    if (num<1){
-      window.location="http://gonthalo.github.io/Gallinas/Contribuir.html";
-    } else {
-      if (num<2){
-        window.location="http://gonthalo.github.io/Gallinas/Mapa.html";
-      } else {
-        if (num<3) {
-          window.location="http://gonthalo.github.io/Gallinas/Sobre_nosotros.html";
-        } else {
-          if (num<4) {
-            window.location="http://gonthalo.github.io/Gallinas/Masterchem.html";
-          } else {
-            if (num<5) {
-              window.location="http://gonthalo.github.io/Gallinas/Clapeyron.html";
-            } else {
-              if (num<6) {
-                window.location="http://gonthalo.github.io/Gallinas/Masterchem2.html";
-              } else {
-                window.location="http://gonthalo.github.io/Gallinas/Ultimo.html";
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-}
 
 (function($) {
 $(document).ready(function(){
@@ -51,6 +19,38 @@ $(document).ready(function(){
     }
     $(this).before("<pre class='lines'>" + lines.join("\n") + "</pre>");
   });
+  function boton_aleatorio() {
+    var num = 8*Math.random();
+    if (num<1){
+      window.location="http://gonthalo.github.io/Gallinas/";
+    } else {
+      if (num<2){
+        window.location="http://gonthalo.github.io/Gallinas/Contribuir.html";
+      } else {
+        if (num<3){
+          window.location="http://gonthalo.github.io/Gallinas/Mapa.html";
+        } else {
+        if (num<4) {
+            window.location="http://gonthalo.github.io/Gallinas/Sobre_nosotros.html";
+          } else {
+            if (num<5) {
+              window.location="http://gonthalo.github.io/Gallinas/Masterchem.html";
+            } else {
+              if (num<6) {
+                window.location="http://gonthalo.github.io/Gallinas/Clapeyron.html";
+              } else {
+                if (num<7) {
+                  window.location="http://gonthalo.github.io/Gallinas/Masterchem2.html";
+                } else {
+                  window.location="http://gonthalo.github.io/Gallinas/Ultimo.html";
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
 
   var headings = [];
 

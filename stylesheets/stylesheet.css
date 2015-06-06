@@ -62,8 +62,6 @@ ul#topbar li a:hover {
   background-color: blue;
 }
 ul#topbar li {
-  margin-right: 10px;
-  margin-left: 10px;
   text-decoration: none;
   background-color: black;
   color: white;

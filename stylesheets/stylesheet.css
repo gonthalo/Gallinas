@@ -70,6 +70,7 @@ ul#topbar li {
   text-align: center;
   display:inline;
   border-radius: 4px;
+  padding: 10px 20px;
 }
 #boton :hover{
   background-color: blue;

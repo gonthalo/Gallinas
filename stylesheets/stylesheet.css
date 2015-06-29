@@ -1,5 +1,6 @@
 body {
   background-color: white;
+  margin: 0;
 }
 #theory {
   margin-right: 2.22%;
@@ -89,9 +90,6 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
-body {
-  margin: 0;
-}
 
 /*
 

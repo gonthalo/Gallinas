@@ -1,5 +1,5 @@
 function boton_aleatorio() {
-  var num = 8*Math.random();
+  var num = 9*Math.random();
   if (num<1){
     window.location="http://gonthalo.github.io/Gallinas/";
   } else {
@@ -21,7 +21,11 @@ function boton_aleatorio() {
               if (num<7) {
                 window.location="http://gonthalo.github.io/Gallinas/Masterchem2.html";
               } else {
-                window.location="http://gonthalo.github.io/Gallinas/Ultimo.html";
+                if (num<8) {
+                  window.location="http://gonthalo.github.io/Gallinas/Masterchem3.html";
+                } else {
+                  window.location="http://gonthalo.github.io/Gallinas/Ultimo.html";
+                }
               }
             }
           }
